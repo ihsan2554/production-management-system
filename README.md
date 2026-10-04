@@ -53,13 +53,13 @@ The dashboard (`application/views/admin/Beranda.php`) opens its own database con
 
 ![Login](ss/ss1.png)
 
-**Dashboard**
+**Dashboard Admin**
 
 ![Dashboard Admin](ss/ss2.png)
 
-**Dashboard**
+**Dashboard Leader**
 
-![Planning Leader](ss/ss3.png)
+![Dashboard Leader](ss/ss3.png)
 
 
 ## Planned Improvements
